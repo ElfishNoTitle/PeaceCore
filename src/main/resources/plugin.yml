@@ -1,0 +1,3 @@
+name: PeaceCore
+version: '${project.version}'
+main: org.peace.notitle.peacecore.PeaceCore
